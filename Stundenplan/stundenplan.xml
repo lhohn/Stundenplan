@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Studenplan>
+  <Monday>
+    <Fach Start="9:00" Ende="10:30" Name="Test" Link="https://us02web.zoom.us/j/5765556463?pwd=SHduc21SQURPdjMzSnRTcUxPVUhtQT09"/>
+    <Fach Start="10:45" Ende="12:15" Name="Test2" />
+  </Monday>
+  <Tuesday>
+    <Fach Start="13:30" Ende="15:00" Name="Grundlagen von Wahrscheinlichkeitstheorie und Statistik (Di V)" Link="https://h-brs.webex.com/h-brs/j.php?MTID=m36c265ef6e3595ba6e99607aa7a75eb3"/>
+    <Fach Start="15:15" Ende="18:30" Name="Einführung in die Automatentheorie und Formale Sprachen (VÜ)" Link="https://lectures.fslab.de/course/34/conference/13"/>
+  </Tuesday>
+</Studenplan>
